@@ -1,4 +1,4 @@
-package org.careem.falcons.digitalwallet.model;
+package org.falcons.digitalwallet.model;
 
 import java.util.ArrayList;
 import java.util.List;

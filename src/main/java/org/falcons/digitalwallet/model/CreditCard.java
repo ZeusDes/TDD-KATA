@@ -1,4 +1,4 @@
-package org.careem.falcons.digitalwallet.model;
+package org.falcons.digitalwallet.model;
 
 public class CreditCard {
     private final String cardNumber;

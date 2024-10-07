@@ -1,4 +1,4 @@
-package org.careem.falcons.digitalwallet.service.impl;
+package org.falcons.digitalwallet.service.impl;
 
 import org.junit.jupiter.api.Test;
 
